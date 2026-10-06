@@ -1,0 +1,7 @@
+journey_step,event_name,sessions,step_conversion_rate_pct
+1,login,30000,100.0
+2,product_view,28138,93.79
+3,application_start,22539,75.13
+4,details_entered,15650,52.17
+5,verification,10422,34.74
+6,application_submitted,7443,24.81
